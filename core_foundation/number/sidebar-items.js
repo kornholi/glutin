@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["number","A convenience function to create CFNumbers."]],"type":[["CFNumberRef",""],["CFNumberType",""]],"struct":[["CFNumber","An immutable numeric value."]]});

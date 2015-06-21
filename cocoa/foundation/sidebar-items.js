@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NSPoint",""],["NSRect",""],["NSSize",""]],"enum":[["NSRectEdge",""]],"type":[["NSInteger",""],["NSTimeInterval",""],["NSUInteger",""]],"static":[["NSDefaultRunLoopMode",""]],"trait":[["NSAutoreleasePool",""],["NSDate",""],["NSProcessInfo",""],["NSString",""]]});

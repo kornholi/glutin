@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["Boolean",""],["CFBooleanRef",""]],"struct":[["CFBoolean","A Boolean type."]]});

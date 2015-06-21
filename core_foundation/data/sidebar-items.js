@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["CFDataRef",""]],"struct":[["CFData","A byte buffer."]]});

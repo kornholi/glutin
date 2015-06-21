@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["CFSetCopyDescriptionCallBack",""],["CFSetEqualCallBack",""],["CFSetHashCallBack",""],["CFSetRef",""],["CFSetReleaseCallBack",""],["CFSetRetainCallBack",""]],"struct":[["CFSet","An immutable bag of elements."],["CFSetCallBacks",""]]});

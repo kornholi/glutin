@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["CFURLPathStyle",""],["CFURLRef",""]],"constant":[["kCFURLHFSPathStyle",""],["kCFURLPOSIXPathStyle",""],["kCFURLWindowsPathStyle",""]],"struct":[["CFURL",""]]});
